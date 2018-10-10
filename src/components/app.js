@@ -36,7 +36,7 @@ class App extends Component {
   }
 
   setArticleListRef = (ref) => {
-    console.log('---', 'article list ref', ref, findDOMNode(ref))
+    console.log('---====', 'article list ref', ref, findDOMNode(ref))
   }
 }
 
